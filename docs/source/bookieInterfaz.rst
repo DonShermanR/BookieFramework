@@ -87,8 +87,5 @@ Los botones dentro del framework están estilizados con las siguientes caracter�
 - **Texto**: Blanco, con tamaño de fuente 18 px y negrita.
 - **Iconos**: Los botones tienen íconos asociados que representan gráficamente la acción que realizan.
 
-Conclusión
-==========
-Este manual cubre las principales características de la interfaz gráfica del **BOOKIE Framework**, su uso y la funcionalidad de cada botón. Para cualquier duda o mejora, consulte el código fuente o contacte al desarrollador.
 
 
