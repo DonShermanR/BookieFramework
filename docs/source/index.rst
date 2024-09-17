@@ -32,5 +32,6 @@ Contents
 .. toctree::
 
    bookieInterfaz
+   mergeHistoriales
    
    
