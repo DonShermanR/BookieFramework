@@ -33,5 +33,6 @@ Contents
 
    bookieInterfaz
    mergeHistoriales
+   mergeCookies
    
    
