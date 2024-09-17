@@ -1,17 +1,30 @@
-Welcome to Lumache's documentation!
-===================================
+==============================
+BOOKIE Framework - Manual de Usuario
+==============================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Introducción
+============
+El **BOOKIE Framework** es una interfaz gráfica creada con **PyQt5** que permite ejecutar distintos scripts relacionados con el manejo de bases de datos y análisis de cookies. La aplicación está diseñada para facilitar la interacción con los scripts de una manera intuitiva, utilizando botones con íconos y descripciones claras.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Requisitos
+==========
+- **Python 3.8 o superior**
+- **PyQt5**: Instalable utilizando `pip install pyqt5`
+- Scripts adicionales ubicados en las rutas especificadas dentro del código fuente.
 
-.. note::
+Instalación
+===========
+1. Clonar o descargar el código del proyecto.
+2. Asegúrese de tener **Python 3.8 o superior** instalado.
+3. Instalar las dependencias con el siguiente comando:
 
-   This project is under active development.
+
+Interfaz de Usuario
+===================
+La ventana principal del framework está dividida en varias secciones:
+
+1. **Encabezado Principal**: Contiene el logo de la Escuela Politécnica Nacional y el título del proyecto.
+2. **Botones de Funcionalidades**: Un conjunto de botones que permiten acceder a las diferentes características del framework.
 
 Contents
 --------
