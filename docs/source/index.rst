@@ -18,5 +18,6 @@ Contents
 
 .. toctree::
 
+   bookieInterfaz
    usage
    api
