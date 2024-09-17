@@ -140,7 +140,4 @@ Código Relevante
           center_y = (screen_geometry.height() - self.height()) // 2
           self.move(screen_geometry.left() + center_x, screen_geometry.top() + center_y)
 
-Conclusión
-==========
 
-La herramienta **Database Merger** es una solución sencilla y eficiente para combinar bases de datos SQLite mediante una interfaz gráfica intuitiva. Este manual ha detallado el uso y el código más relevante para una mejor comprensión y aprovechamiento del software.
